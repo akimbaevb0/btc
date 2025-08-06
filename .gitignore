@@ -247,3 +247,7 @@ ModelManifest.xml
 
 # build directories
 /build*/
+
+# Python artifacts
+__pycache__/
+*.pyc
